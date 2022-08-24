@@ -1,4 +1,4 @@
-#!/usr/bin/pyhon
+#!/usr/bin/pyhon3
 def uppercase(str):
     for c in str:
         if ord(c) >= ord('a') and ord(c) <= ord('z'):
