@@ -1,5 +1,5 @@
-### 0x12-javascript-warm_up
-# In this project, I learnt:
+# 0x12-javascript-warm_up
+### In this project, I learnt:
 
 * How to run a JavaScript script
 * How to create variables and constants
