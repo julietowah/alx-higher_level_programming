@@ -13,6 +13,7 @@ Base = declarative_base()
 
 class City(Base):
     """Represents a city for a MySQL database.
+    
     Attributes:
         id (sqlalchemy.Column): The city's id.
         name (sqlalchemy.Column): The city's name.
